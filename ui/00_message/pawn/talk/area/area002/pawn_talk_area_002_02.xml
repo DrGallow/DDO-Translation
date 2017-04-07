@@ -2,22 +2,27 @@
   <message>
     <original>海、きれいですね
 明るくって見晴らしもよくて</original>
+    <translation>"The view of the sea is beautiful."</translation>
   </message>
   <message>
     <original>少しだけ風がねばった感じがします
 潮のせいでしょうか</original>
+    <translation>"I feel the wind begining to wake. Is it because of the tide?"</translation>
   </message>
   <message>
     <original>あの――、浜には漂流船とか
 流れ着いたりもするそうです
 どこから来るんでしょう</original>
+    <translation>"The wood of boats float upon the beach. I wonder where they are coming from?"</translation>
   </message>
   <message>
     <original>貝殻や羽根がたくさんありそうです
 ――ちょっとした小物を作れるかも</original>
+    <translation>"It seems there are plenty of shells and feathers. I wonder if I can make an accessory with these?"</translation>
   </message>
   <message>
     <original>ローテスから離れた南の浜辺は
 危ない所みたいです――</original>
+    <translation>"The beach south from Rothes seems like a dangerous place."</translation>
   </message>
 </resource>
